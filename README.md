@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @naohanpen
-- 👀 Web, App
-- 🌱 Framework on PHP
+- 👋 @naohanpen です
+- 👀 Web、アプリ
+- 🌱 フレームワーク
